@@ -34,3 +34,8 @@ pip-delete-this-directory.txt
 
 # OS X
 .DS_Store
+
+# heavy file formats
+*.png
+*.jpg
+*.zip
